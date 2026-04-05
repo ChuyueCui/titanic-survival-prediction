@@ -28,3 +28,7 @@ This project focuses on predicting passenger survival on the Titanic using machi
 - pandas, NumPy
 - scikit-learn
 - Jupyter Notebook
+
+  📄 Project Resources  
+
+- 💻 Code: [View Notebook](./titanic_modeling.ipynb)
